@@ -1,15 +1,15 @@
-using System.Reflection;
+﻿using System.Reflection;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 
-[assembly: AssemblyTitle("EdgeObject")]
+[assembly: AssemblyTitle("EdgeSecurity")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("EdgeObject")]
+[assembly: AssemblyProduct("EdgeSecurity")]
 [assembly: AssemblyCopyright("Copyright ©  2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -22,7 +22,7 @@ using System.Runtime.InteropServices;
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 
-[assembly: Guid("8a7ccefe-361e-4f13-9598-6ec7ae97b540")]
+[assembly: Guid("7b82518d-019b-46ff-b271-1c0aa6ad6f65")]
 
 // Version information for an assembly consists of the following four values:
 //
