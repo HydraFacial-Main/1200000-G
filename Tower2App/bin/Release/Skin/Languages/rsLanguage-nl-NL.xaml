@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="###Backup">###Reservekopie</system:String>
+    <system:String x:Key="backup_Backup">Reservekopie</system:String>
+    <system:String x:Key="backup_Restore">Terugzetten</system:String>
+    <system:String x:Key="USB drive is not available!">USB-station niet beschikbaar!</system:String>
+    <system:String x:Key="Continue backing-up your photos?">Verder gaan met reservekopie van foto's</system:String>
+    <system:String x:Key="Photos Backup Completed!">Reservekopie van foto's voltooid!</system:String>
+    <system:String x:Key="Please insert USB backup drive!">Plaats een USB-reservekopiestation!</system:String>
+    <system:String x:Key="Backup directory not found!">Reservekopiemap niet gevonden!</system:String>
+    <system:String x:Key="Continue with photo restore?">Doorgaan met foto's terugzetten?</system:String>
+    <system:String x:Key="Restore Completed!">Terugzetten voltooid!</system:String>
+    
+    <system:String x:Key="###Home">###Startpagina</system:String>
+    <system:String x:Key="Remain">Resterend</system:String>
+    <system:String x:Key="Demo Mode">Demonstratiemodus</system:String>
+    <system:String x:Key="Day remain:">Resterende dagen:</system:String>
+    <system:String x:Key="days">dagen</system:String>
+    <system:String x:Key="hours">uur</system:String>
+    
+    <system:String x:Key="###Pass Photo">###Pasfoto</system:String>
+    <system:String x:Key="Profile">Profiel</system:String>
+    <system:String x:Key="ProfileShot">Profiel</system:String>
+    <system:String x:Key="Left">Links</system:String>
+    <system:String x:Key="Right">Rechts</system:String>
+    <system:String x:Key="Close Up #1">Close-up 1</system:String>
+    <system:String x:Key="Close Up #2">Close-up 2</system:String>
+    <system:String x:Key="Close Up #3">Close-up 3</system:String>
+    <system:String x:Key="Original">Origineel</system:String>
+    <system:String x:Key="Previous">Vorige</system:String>
+    <system:String x:Key="Current">Huidige</system:String>
+    <system:String x:Key="Back">Terug</system:String>
+    <system:String x:Key="Past Photos">Eerdere foto's</system:String>
+    <system:String x:Key="Your previous photos will be removed, are you sure?">Uw eerdere foto's worden verwijderd, weet u het zeker?</system:String>
+    <system:String x:Key="Video File Not Found!">Videobestand niet gevonden!</system:String>
+    <system:String x:Key="Create new group photos, are you sure?">Nieuwe groep foto's maken, weet u het zeker?</system:String>
+    <system:String x:Key="Create new group photos the previous photos will be removed, are you sure?">Als u een nieuwe groep foto's maakt, worden de eerdere foto's verwijderd, weet u het zeker?</system:String>
+    
+    <system:String x:Key="###Search">###Zoeken</system:String>
+    <system:String x:Key="Are you sure you want to delete this record?">Weet u zeker dat u deze record wilt verwijderen?</system:String>
+    
+    <system:String x:Key="### Update">###Bijwerken</system:String>
+    <system:String x:Key="Update, are you sure?">Bijwerken, weet u het zeker?</system:String>
+    <system:String x:Key="Update all files from usb drive, are you sure?">Alle bestanden van het USB-station bijwerken, weet u het zeker?</system:String>
+    <system:String x:Key="*Extract Files...">*Bestanden ophalen...</system:String>
+    <system:String x:Key="*Processed success, system shutting down">*Verwerking voltooid, systeem wordt afgesloten...</system:String>
+    <system:String x:Key="*Extract Files Failed!">*Bestanden ophalen mislukt!</system:String>
+    <system:String x:Key="*System shutting down...">*Systeem wordt afgesloten...</system:String>
+    <system:String x:Key="File Not Found!">Bestand niet gevonden!</system:String>
+    <system:String x:Key="Get Total files ...">Totaal aantal bestanden ophalen...</system:String>
+    <system:String x:Key="Copy all files from USB drive ...">Alle bestanden van USB-station kopiëren...</system:String>
+    <system:String x:Key="Update success, system restart...">Bijwerken gelukt, systeem start opnieuw...</system:String>
+    <system:String x:Key="Processing ....">Bezig met verwerken...</system:String>
+    <system:String x:Key="Copying Files...">Bestanden worden gekopieerd...</system:String>
+    <system:String x:Key="Update directories ...">Mappen worden bijgewerkt...</system:String>
+    
+    <system:String x:Key="Delete user">Gebruiker verwijderen</system:String>
+    <system:String x:Key="are you sure?">weet u het zeker?</system:String>
+    
+    <system:String x:Key="###Videos">###Videos</system:String>
+    <system:String x:Key="Promo">Promo</system:String>
+    <system:String x:Key="Training">Training</system:String>
+    <system:String x:Key="Next">Volgende</system:String>
+    
+    <system:String x:Key="### Search">### Zoeken</system:String>
+    <system:String x:Key="Delete">Verwijderen</system:String>
+    <system:String x:Key="Photo Capture">Foto vastleggen</system:String>
+    <system:String x:Key="Notes">Opmerkingen</system:String>
+    <system:String x:Key="Search">Zoeken</system:String>
+    <system:String x:Key="Create">Maken</system:String>
+    <system:String x:Key="Clear">Wissen</system:String>
+    <system:String x:Key="Search Member">Lid zoeken</system:String>
+    <system:String x:Key="Member Editing">Lid bewerken</system:String>
+    <system:String x:Key="Date">Datum</system:String>
+    <system:String x:Key="Name">Naam</system:String>
+    <system:String x:Key="Birthday">Geboortedatum</system:String>
+    <system:String x:Key="(mm/dd/yy)">(mm/dd/jj)</system:String>
+    <system:String x:Key="Tel.No">Tel.nr.</system:String>
+    <system:String x:Key="Please enter customer name!">Voer de naam van de klant in!</system:String>
+    <system:String x:Key="Invalid Birthday!">Ongeldige geboortedatum!</system:String>
+    <system:String x:Key="New Member">Nieuw lid</system:String>
+    <system:String x:Key="Member Info">Lidgegevens</system:String>
+    <system:String x:Key="Save">Opslaan</system:String>
+    
+    <system:String x:Key="###Capture">###Vastleggen</system:String>
+    <system:String x:Key="Capture">Vastleggen</system:String>
+    <system:String x:Key="Reflash">Opnieuw flitsen</system:String>
+    <system:String x:Key="Invalid Photo Capture Device!">Ongeldig apparaat voor foto vastleggen!</system:String>
+    <system:String x:Key="Profile - (Original)">Profiel - (origineel)</system:String>
+    <system:String x:Key="Profile - (Current)">Profiel - (huidig)</system:String>
+    <system:String x:Key="Load From USB">Laden vanaf USB</system:String>
+    
+    <system:String x:Key="###System">###Systeem</system:String>
+    <system:String x:Key="Master Reset">Algeheel terugstellen</system:String>
+    <system:String x:Key="Continue master reset?">Doorgaan met algeheel terugstellen?</system:String>
+    <system:String x:Key="Please Entering Search Data!">Voer zoekgegevens in.</system:String>
+    <system:String x:Key="Last Backup:">Laatste reservekopie:</system:String>
+    <system:String x:Key="Invalid data!">Ongeldige gegevens!</system:String>
+    <system:String x:Key="System protected or invalid data!">Systeem beveiligd of ongeldige gegevens!</system:String>
+    
+    <system:String x:Key="###Hydrafacial">###HydraFacial</system:String>
+    <system:String x:Key="VACUUM CONTROLS">VACUÜMBEDIENING</system:String>
+    <system:String x:Key="PULSE-FUSION CONTROLS">PULS-FUSIEBEDIENING</system:String>
+    <system:String x:Key="THERMAL CONTROLS">THERMISCHE BEDIENING</system:String>
+    <system:String x:Key="TIMER CONTROLS">TIJDBEDIENING</system:String>
+    
+    <system:String x:Key="###DateTime">###Datum Tijd</system:String>
+    <system:String x:Key="Data saved!">Gegevens opgeslagen!</system:String>
+    <system:String x:Key="Change date time, are you sure?">Datum en tijd wijzigen, weet u het zeker?</system:String>
+    
+    <system:String x:Key="Change language,">Taal wijzigen,</system:String>
+    <system:String x:Key="Please select the language!">Selecteer uw taal!</system:String>
+    
+    <system:String x:Key="File is in use, please restart the machine and try again!">Bestand in gebruik, start de machine opnieuw en probeer het nog eens!</system:String>
+
+</ResourceDictionary>

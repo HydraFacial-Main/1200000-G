@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="###Backup">###Sauvegarde</system:String>
+    <system:String x:Key="backup_Backup">Sauvegarde</system:String>
+    <system:String x:Key="backup_Restore">Restaurer</system:String>
+    <system:String x:Key="USB drive is not available!">La clé USB n'est pas disponible !</system:String>
+    <system:String x:Key="Continue backing-up your photos?">Continuez à sauvegarder vos photos</system:String>
+    <system:String x:Key="Photos Backup Completed!">Sauvegarde des photos terminée !</system:String>
+    <system:String x:Key="Please insert USB backup drive!">Veuillez insérer un lecteur de sauvegarde USB !</system:String>
+    <system:String x:Key="Backup directory not found!">Répertoire de sauvegarde introuvable !</system:String>
+    <system:String x:Key="Continue with photo restore?">Continuer avec la restauration de la photo ?</system:String>
+    <system:String x:Key="Restore Completed!">Restauration terminée !</system:String>
+    
+    <system:String x:Key="###Home">###Accueil</system:String>
+    <system:String x:Key="Remain">Rester</system:String>
+    <system:String x:Key="Demo Mode">Mode démonstration</system:String>
+    <system:String x:Key="Day remain:">Jour restant :</system:String>
+    <system:String x:Key="days">jours</system:String>
+    <system:String x:Key="hours">heures</system:String>
+    
+    <system:String x:Key="###Pass Photo">###Photographie d'identité</system:String>
+    <system:String x:Key="Profile">Profil</system:String>
+    <system:String x:Key="ProfileShot">Profil</system:String>
+    <system:String x:Key="Left">Gauche</system:String>
+    <system:String x:Key="Right">Droite</system:String>
+    <system:String x:Key="Close Up #1">Gros plan n° 1</system:String>
+    <system:String x:Key="Close Up #2">Gros plan n° 2</system:String>
+    <system:String x:Key="Close Up #3">Gros plan n° 3</system:String>
+    <system:String x:Key="Original">Original</system:String>
+    <system:String x:Key="Previous">Précédent</system:String>
+    <system:String x:Key="Current">Actuel</system:String>
+    <system:String x:Key="Back">Retour</system:String>
+    <system:String x:Key="Past Photos">###Photos passées</system:String>
+    <system:String x:Key="Your previous photos will be removed, are you sure?">Vos photos précédentes seront supprimées, êtes-vous sûr ?</system:String>
+    <system:String x:Key="Video File Not Found!">Fichier vidéo non trouvé !</system:String>
+    <system:String x:Key="Create new group photos, are you sure?">Créer un nouveau groupe de photos, êtes-vous sûr ?</system:String>
+    <system:String x:Key="Create new group photos the previous photos will be removed, are you sure?">Créer un nouveau groupe de photos, les photos précédentes seront supprimées, êtes-vous sûr ?</system:String>
+    
+    <system:String x:Key="###Search">###Chercher</system:String>
+    <system:String x:Key="Are you sure you want to delete this record?">Êtes-vous sûr de vouloir supprimer cet enregistrement ?</system:String>
+    
+    <system:String x:Key="### Update">###Mise à jour</system:String>
+    <system:String x:Key="Update, are you sure?">Mise à jour, êtes-vous sûr ?</system:String>
+    <system:String x:Key="Update all files from usb drive, are you sure?">Mise à jour de tous les fichiers de la clé USB, êtes-vous sûr ?</system:String>
+    <system:String x:Key="*Extract Files...">*Extraire les fichiers...</system:String>
+    <system:String x:Key="*Processed success, system shutting down">*Le processus a été effectué avec succès, arrêt du système...</system:String>
+    <system:String x:Key="*Extract Files Failed!">*L'extraction de fichiers a échoué !</system:String>
+    <system:String x:Key="*System shutting down...">*Arrêt du système en cours...</system:String>
+    <system:String x:Key="File Not Found!">Fichier non trouvé !</system:String>
+    <system:String x:Key="Get Total files ...">Obtenir le total des fichiers...</system:String>
+    <system:String x:Key="Copy all files from USB drive ...">Copier tous les fichiers de la clé USB...</system:String>
+    <system:String x:Key="Update success, system restart...">Mise à jour effectuée avec succès, redémarrage du système...</system:String>
+    <system:String x:Key="Processing ....">En cours de traitement....</system:String>
+    <system:String x:Key="Copying Files...">Copie des fichiers en cours...</system:String>
+    <system:String x:Key="Update directories ...">Mise à jour les répertoires...</system:String>
+    
+    <system:String x:Key="Delete user">Supprimer l'utilisateur</system:String>
+    <system:String x:Key="are you sure?">êtes-vous sûr ?</system:String>
+    
+    <system:String x:Key="###Videos">###Vidéos</system:String>
+    <system:String x:Key="Promo">Promo</system:String>
+    <system:String x:Key="Training">Formation</system:String>
+    <system:String x:Key="Next">Suivant</system:String>
+    
+    <system:String x:Key="### Search">### Chercher</system:String>
+    <system:String x:Key="Delete">Supprimer</system:String>
+    <system:String x:Key="Photo Capture">Capture de photo</system:String>
+    <system:String x:Key="Notes">Notes</system:String>
+    <system:String x:Key="Search">Chercher</system:String>
+    <system:String x:Key="Create">Créer</system:String>
+    <system:String x:Key="Clear">Effacer</system:String>
+    <system:String x:Key="Search Member">Rechercher un membre</system:String>
+    <system:String x:Key="Member Editing">Modification d’un membre</system:String>
+    <system:String x:Key="Date">Date</system:String>
+    <system:String x:Key="Name">Nom</system:String>
+    <system:String x:Key="Birthday">Date d’anniversaire</system:String>
+    <system:String x:Key="(mm/dd/yy)">(mm/jj/aa)</system:String>
+    <system:String x:Key="Tel.No">N° de téléphone</system:String>
+    <system:String x:Key="Please enter customer name!">Veuillez saisir le nom du client !</system:String>
+    <system:String x:Key="Invalid Birthday!">Date d’anniversaire invalide !</system:String>
+    <system:String x:Key="New Member">Nouveau membre</system:String>
+    <system:String x:Key="Member Info">Infos sur le membre</system:String>
+    <system:String x:Key="Save">Sauvegarder</system:String>
+    
+    <system:String x:Key="###Capture">###Capturer</system:String>
+    <system:String x:Key="Capture">Capturer</system:String>
+    <system:String x:Key="Reflash">Reflasher</system:String>
+    <system:String x:Key="Invalid Photo Capture Device!">Périphérique de capture de photos invalide !</system:String>
+    <system:String x:Key="Profile - (Original)">Profil - (Original)</system:String>
+    <system:String x:Key="Profile - (Current)">Profil - (Actuel)</system:String>
+    <system:String x:Key="Load From USB">Charger depuis un USB</system:String>
+    
+    <system:String x:Key="###System">###Système</system:String>
+    <system:String x:Key="Master Reset">Réinitialisation aux valeurs d’usine</system:String>
+    <system:String x:Key="Continue master reset?">Continuer la réinitialisation aux valeurs d’usine ?</system:String>
+    <system:String x:Key="Please Entering Search Data!">Veuillez entrer les données de recherche !</system:String>
+    <system:String x:Key="Last Backup:">Dernière sauvegarde :</system:String>
+    <system:String x:Key="Invalid data!">Données invalides !</system:String>
+    <system:String x:Key="System protected or invalid data!">Système protégé ou données invalides !</system:String>
+    
+    <system:String x:Key="###Hydrafacial">###Hydrafacial</system:String>
+    <system:String x:Key="VACUUM CONTROLS">COMMANDES DE LA PRESSION</system:String>
+    <system:String x:Key="PULSE-FUSION CONTROLS">COMMANDES IMPULSION-FUSION</system:String>
+    <system:String x:Key="THERMAL CONTROLS">COMMANDES THERMIQUES</system:String>
+    <system:String x:Key="TIMER CONTROLS">COMMANDES DE LA MINUTERIE</system:String>
+    
+    <system:String x:Key="###DateTime">### DateHeure</system:String>
+    <system:String x:Key="Data saved!">Données sauvegardées !</system:String>
+    <system:String x:Key="Change date time, are you sure?">Modifier la date et l'heure, êtes-vous sûr ?</system:String>
+    
+    <system:String x:Key="Change language,">Changer de langue,</system:String>
+    <system:String x:Key="Please select the language!">Veuillez sélectionner la langue !</system:String>
+    
+    <system:String x:Key="File is in use, please restart the machine and try again!">Le fichier est en cours d'utilisation, redémarrez la machine et réessayez !</system:String>
+
+</ResourceDictionary>
