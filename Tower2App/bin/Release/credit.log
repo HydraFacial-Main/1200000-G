@@ -4151,3 +4151,27 @@
 2020-07-28 09:36:21.910 Next-(result)MainScreen
 2020-07-28 09:36:21.911 UpdateUserInterface ->MainScreen
 2020-07-28 09:36:21.911 OK, show main screen!
+2020-07-30 08:31:08.569 Init_Creditcode-( entermode) ->False
+2020-07-30 08:31:08.682 UpdateUserInterface ->PowerUp
+2020-07-30 08:31:08.686 Next-(enter state)PowerUp
+2020-07-30 08:31:08.687 Next-(result)CheckClock
+2020-07-30 08:31:08.688 UpdateUserInterface ->CheckClock
+2020-07-30 08:31:08.690 Next-(enter state)CheckClock
+2020-07-30 08:31:08.691 Next-(result)CheckCredit
+2020-07-30 08:31:08.691 UpdateUserInterface ->CheckCredit
+2020-07-30 08:31:08.693 Next-(enter state)CheckCredit
+2020-07-30 08:31:08.701 Next-(result)MainScreen
+2020-07-30 08:31:08.701 UpdateUserInterface ->MainScreen
+2020-07-30 08:31:08.702 OK, show main screen!
+2020-07-30 08:31:09.188 credit-page init
+2020-07-30 08:31:09.190 UpdateUserInterface ->PowerUp
+2020-07-30 08:31:09.191 Next-(enter state)PowerUp
+2020-07-30 08:31:09.193 Next-(result)CheckClock
+2020-07-30 08:31:09.194 UpdateUserInterface ->CheckClock
+2020-07-30 08:31:09.199 Next-(enter state)CheckClock
+2020-07-30 08:31:09.200 Next-(result)CheckCredit
+2020-07-30 08:31:09.201 UpdateUserInterface ->CheckCredit
+2020-07-30 08:31:09.206 Next-(enter state)CheckCredit
+2020-07-30 08:31:09.212 Next-(result)MainScreen
+2020-07-30 08:31:09.213 UpdateUserInterface ->MainScreen
+2020-07-30 08:31:09.214 OK, show main screen!
