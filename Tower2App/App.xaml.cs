@@ -465,7 +465,7 @@ namespace Edge.Tower2.UI
                 try
                 {
                     var reader = XmlReader.Create(filepath);
-                    var resourceDictionary = (ResourceDictionary)XamlReader.Load(reader);
+                    //var resourceDictionary = (ResourceDictionary)XamlReader.Load(reader);
                     dictionaries.Add(resourceDictionary);
                 }
                 catch (Exception e)
