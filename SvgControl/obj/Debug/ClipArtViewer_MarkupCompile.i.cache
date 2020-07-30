@@ -1,18 +1,18 @@
 ﻿ClipArtViewer
 
 
-winexe
+library
 C#
 .cs
-C:\Users\Robert\Downloads\SVGImageSrcExe1_4\SVGImage\ClipArtViewer\obj\Debug\
+C:\Users\Robert\Downloads\SVGImageSrcExe1_4\SVGImage\ClipArtViewer\obj\Release\
 ClipArtViewer
 none
 false
-DEBUG;TRACE
-C:\Users\Robert\Downloads\SVGImageSrcExe1_4\SVGImage\ClipArtViewer\App.xaml
+TRACE
+
 5-1231832166
 
-22438105178
+21-1558283101
 121761848728
 DebugForm.xaml;FullSizeForm.xaml;MainWindow.xaml;SizeTypeForm.xaml;Themes\Generic.xaml;
 
