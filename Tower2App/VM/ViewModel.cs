@@ -1,4 +1,4 @@
-
+﻿
 using System.ComponentModel;
 
 namespace Edge.Tower2.UI.VM
