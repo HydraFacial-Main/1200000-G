@@ -16,14 +16,14 @@
       <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
         <!--
           UAC Manifest Options
-          If you want to change the Windows User Account Control level replace the 
+          If you want to change the Windows User Account Control level replace the
           requestedExecutionLevel node with one of the following.
 
         <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
         <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
         <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
 
-         If you want to utilize File and Registry Virtualization for backward 
+         If you want to utilize File and Registry Virtualization for backward
          compatibility then delete the requestedExecutionLevel node.
     -->
         <requestedExecutionLevel level="asInvoker" uiAccess="false" />
@@ -62,7 +62,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>MXhtJvOLkByTR8IazRwvm7SrxNV0OAUGpvAWORNfHic=</dsig:DigestValue>
+        <dsig:DigestValue>j3JzQ8TtVMbfvdXDfOG1SXSld/oIqtVAvIvXy9xVvO8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -74,19 +74,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>U2JlQ9VbthPUbQ4v3Gco0S1GxR8cWOFlk9mWiHGfqLw=</dsig:DigestValue>
+        <dsig:DigestValue>NlnRF3cf0N9YgugXD3YZ3X9tOP1hJLoSf+yqOsJdJ0k=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Edge.Tower2.UI.exe" size="2205696">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Edge.Tower2.UI.exe" size="2203648">
       <assemblyIdentity name="Edge.Tower2.UI" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>LGjctSaVdE81FujTtkFAgeZE3a7ZTfal8omsuaRN/xc=</dsig:DigestValue>
+        <dsig:DigestValue>PBbDTj9tsY+Kf0GS5C8h+wLT4sMxN1CABmOEgQCi1r8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -163,14 +163,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SvgControl.dll" size="60928">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SvgControl.dll" size="61440">
       <assemblyIdentity name="SvgControl" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>n5ysRfmm0CLJxFqcl5Uds6Au5YajYlqCbhdsgv5RfOc=</dsig:DigestValue>
+        <dsig:DigestValue>HijnLNC0wOsS97kJruYZsifzWmop97KXcxd9hyeLZN8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -199,14 +199,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WPFMediaKit.dll" size="119808">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WPFMediaKit.dll" size="120832">
       <assemblyIdentity name="WPFMediaKit" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>0fzsDlGWICKz/5ALOIhVPqtM1dsKP8o9q+9Mem0psS0=</dsig:DigestValue>
+        <dsig:DigestValue>lLDi7RC3cofQmCL8rYAlp2NQYnoMDB8wlAtqLeB1dP4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
