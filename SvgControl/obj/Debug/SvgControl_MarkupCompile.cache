@@ -4,11 +4,11 @@
 library
 C#
 .cs
-C:\Users\David.Hernandez\Desktop\Source Rev G\Tower RevG\TowerIV_API_ver0106_6-9_KB3_5_6_v120b_reduce\Tower2App-03-05-2014(Source)\EdgeFramework\SvgControl\obj\Release\
+C:\Users\David.Hernandez\Desktop\Source Rev G\Tower RevG\TowerIV_API_ver0106_6-9_KB3_5_6_v120b_reduce\Tower2App-03-05-2014(Source)\EdgeFramework\SvgControl\obj\Debug\
 SvgControl
 none
 false
-TRACE
+DEBUG;TRACE
 
 1-731644535
 
@@ -16,5 +16,5 @@ TRACE
 121761848728
 Themes\Generic.xaml;
 
-False
+True
 
